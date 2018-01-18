@@ -1,5 +1,6 @@
 # Kingpin - A Go (golang) command line and flag parser
 [![](https://godoc.org/github.com/alecthomas/kingpin?status.svg)](http://godoc.org/github.com/alecthomas/kingpin) [![Build Status](https://travis-ci.org/alecthomas/kingpin.svg?branch=master)](https://travis-ci.org/alecthomas/kingpin) [![Gitter chat](https://badges.gitter.im/alecthomas.png)](https://gitter.im/alecthomas/Lobby)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fkingpin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fkingpin?ref=badge_shield)
 
 
 
@@ -672,3 +673,7 @@ Commands:
     file <file>
   post [<flags>] <url>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fkingpin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fkingpin?ref=badge_large)
